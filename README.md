@@ -19,10 +19,9 @@
 * **RFM_Score (加权综合得分)**：0.2*R + 0.3*F + 0.5*M
 * **Final_Score**：引入意向权重修正 `RFM_Score * (1 + I_Score / 500)`
 
-*(在此处可以插入你写的那些优秀的 SQL 代码片段或者提供 sql 文件的超链接)*
 
 ## 📈 Power BI 交互式可视化分析
-![用户ID分布与消费关系](images/用户ID分布与消费关系图.png)等等
+![用户ID分布与消费关系](RFMI-User-Segmentation-Analysis/images/用户ID分布与消费关系图.png)等图
 
 
 ## 💰 营销 ROI 测算对比 (A/B Strategy)
