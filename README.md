@@ -21,8 +21,7 @@
 
 
 ## 📈 Power BI 交互式可视化分析
-![用户ID分布与消费关系](RFMI-User-Segmentation-Analysis/images/用户ID分布与消费关系图.png)等图
-
+* **images
 
 ## 💰 营销 ROI 测算对比 (A/B Strategy)
 基于固定预算 10,000 元，对比「传统 RFM 前20%投放」与「优化 RFMI 精细化投放」：
