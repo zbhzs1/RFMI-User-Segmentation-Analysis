@@ -32,3 +32,11 @@
 * `/data/` - 脱敏抽样数据集
 * `/sql/` - 数据清洗、特征构建及 ROI 测算的完整 MySQL 脚本
 * `/dashboards/` - Power BI 可视化源文件 (.pbix)
+
+
+> **💡 项目声明与致谢 (Acknowledgments)**
+> * **业务逻辑灵感 / 原型参考**：本项目核心用户分层逻辑参考自[野生数据分析师-电商用户价值分层项目](https://my.feishu.cn/wiki/JWxWwaet1iWqoHkpfkycgod8nEh)。原作者提供了优秀的 Python 实现方案，**本项目在此基础上进行了跨技术栈重构与业务拓展**。
+> * **数据来源**：[Kaggle - E-commerce Product Recommendation Collaborative Dataset](https://www.kaggle.com/datasets/kartikeybartwal/ecommerce-product-recommendation-collaborative)
+> 
+> 1. **技术栈重构**：脱离原版的 Python/Pandas 环境，全程使用 **MySQL** 进行复杂的数据清洗、特征工程与指标计算。
+> 2. **BI 赋能**：引入 **Power BI**，将枯燥的数据转化为极具交互性的商业数据看板（包含散点图、热力图、漏斗图等探索性分析）。
