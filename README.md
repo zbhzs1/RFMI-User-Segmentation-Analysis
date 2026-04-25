@@ -34,6 +34,7 @@
 * `/dashboards/` - Power BI 可视化源文件 (.pbix)
 
 
+
 > **💡 项目声明与致谢 (Acknowledgments)**
 > * **业务逻辑灵感 / 原型参考**：本项目核心用户分层逻辑参考自[野生数据分析师-电商用户价值分层项目](https://my.feishu.cn/wiki/JWxWwaet1iWqoHkpfkycgod8nEh)。原作者提供了优秀的 Python 实现方案，**本项目在此基础上进行了跨技术栈重构与业务拓展**。
 > * **数据来源**：[Kaggle - E-commerce Product Recommendation Collaborative Dataset](https://www.kaggle.com/datasets/kartikeybartwal/ecommerce-product-recommendation-collaborative)
